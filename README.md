@@ -4,4 +4,16 @@
 
 ***REPOS TO BE GENERATED***
 
-- Active Directory Exploitations
+- Ansible Configurations
+- AWS
+- Penetration Testing 
+- PowerShell
+- Cisco Configurations
+- Citrix Build Guidance
+- Cloud Vulnerability Scanners
+- Hacking Tools 
+- Nessus Scanner
+- Operating System Repos
+- Rapid 7 Scanner
+- Server Configurations
+- VmWare OS Builds
